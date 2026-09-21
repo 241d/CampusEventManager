@@ -1,1 +1,2 @@
 Email notification
+SMS notification
