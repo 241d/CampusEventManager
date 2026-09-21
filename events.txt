@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Name: Ranghwardhan, Date: 25th December,2026, Venue:Auditorium
+=======
+Name: Pratibimb, Date: 26th March,2026, Venue:Quad
+>>>>>>> feature-update
