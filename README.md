@@ -1,2 +1,3 @@
 Campus Event Management 
-updating event through desktop
+updating event through desktop..
+
